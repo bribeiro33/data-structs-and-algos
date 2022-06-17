@@ -1,0 +1,19 @@
+#test 3
+quiver-capacity: 2000
+random-seed: 33687
+max-rand-distance: 57
+max-rand-speed: 32
+max-rand-health: 33
+---
+round: 1
+random-zombies: 1
+named-zombies: 0
+---
+round: 2
+random-zombies: 0
+named-zombies: 0
+---
+round: 3
+random-zombies: 0
+named-zombies: 0
+

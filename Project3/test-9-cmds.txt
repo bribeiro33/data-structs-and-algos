@@ -1,0 +1,16 @@
+# category and keyword overlap and double commands
+c cookies
+s
+k cookies
+s
+k limes
+s
+s
+c limes
+g
+g
+p
+p
+l
+l
+q

@@ -1,0 +1,18 @@
+# test 0
+quiver-capacity: 9
+random-seed: 12222
+max-rand-distance: 251
+max-rand-speed: 251
+max-rand-health: 251
+---
+round: 1
+random-zombies: 3
+named-zombies: 3
+TonyStark distance: 251 speed: 251 health: 251
+SamWilson distance: 251 speed: 251 health: 251
+NatashaRomanoff distance: 251 speed: 251 health: 251
+---
+round: 3
+random-zombies: 1
+named-zombies: 1
+ChrisEvans distance: 251 speed: 251 health: 251

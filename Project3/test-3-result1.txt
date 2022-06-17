@@ -1,0 +1,20 @@
+5 entries read
+% % Keyword search: 0 entries found
+% % log entry 4 appended
+% % 0 log entries appended
+% Deleted excerpt list entry 0
+% % % Keyword search: 2 entries found
+% Keyword search: 4 entries found
+% 4 log entries appended
+% % % Moved excerpt list entry 0
+% % Moved excerpt list entry 3
+% % excerpt list sorted
+previous ordering:
+0|1|13:58:81:48:56|Saguaro|Not jeremiads knowledge Saguaro Pinnacling smelly interrobang notices
+...
+3|0|73:10:62:09:43|Conjugators|chlorophenol homogeneousness hoes Tabours money notices
+new ordering:
+0|1|13:58:81:48:56|Saguaro|Not jeremiads knowledge Saguaro Pinnacling smelly interrobang notices
+...
+3|0|73:10:62:09:43|Conjugators|chlorophenol homogeneousness hoes Tabours money notices
+% 

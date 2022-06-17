@@ -1,0 +1,17 @@
+Start in level 2, row 1, column 0
+//level 0
+1E
+n.
+//level 1
+s.
+eH
+//level 2
+.3
+en
+//level 3
+sw
+0.
+//level 4
+..
+E.
+

@@ -1,0 +1,27 @@
+18 entries read
+% Timestamps search: 1 entries found
+% Timestamps search: 1 entries found
+% Timestamps search: 1 entries found
+% Timestamp search: 1 entries found
+% Timestamp search: 0 entries found
+% Category search: 0 entries found
+% Category search: 6 entries found
+% Category search: 0 entries found
+% Category search: 0 entries found
+% Keyword search: 2 entries found
+% Keyword search: 5 entries found
+% Keyword search: 2 entries found
+% Keyword search: 2 entries found
+% 2 log entries appended
+% 0|3|12:15:08:18:59|TCP|Running test on incoming packet from client (CID #34154).
+1|16|37:57:62:44:47|TCP|Bad packet received (CID #12345)
+% excerpt list sorted
+previous ordering:
+0|3|12:15:08:18:59|TCP|Running test on incoming packet from client (CID #34154).
+...
+1|16|37:57:62:44:47|TCP|Bad packet received (CID #12345)
+new ordering:
+0|3|12:15:08:18:59|TCP|Running test on incoming packet from client (CID #34154).
+...
+1|16|37:57:62:44:47|TCP|Bad packet received (CID #12345)
+%

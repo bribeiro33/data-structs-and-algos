@@ -1,0 +1,17 @@
+M
+3
+2
+
+//have to take elevator to get to hanger
+
+//level 0
+EE
+SE
+
+//level 1
+H.
+E.
+
+//level 3
+E.
+E.

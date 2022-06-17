@@ -1,0 +1,54 @@
+Round: 1
+Round: 2
+Created: paoletti0 (distance: 1, speed: 1, health: 1)
+Created: darden1 (distance: 1, speed: 1, health: 1)
+Created: garcia2 (distance: 1, speed: 1, health: 1)
+Created: cris3 (distance: 1, speed: 1, health: 1)
+Created: bing4 (distance: 1, speed: 1, health: 1)
+Created: TonyStark (distance: 68, speed: 68, health: 30)
+Created: SamWilson (distance: 57, speed: 57, health: 30)
+Created: NatashaRomanoff (distance: 105, speed: 45, health: 30)
+Destroyed: bing4 (distance: 1, speed: 1, health: 0)
+Destroyed: cris3 (distance: 1, speed: 1, health: 0)
+Destroyed: darden1 (distance: 1, speed: 1, health: 0)
+Destroyed: garcia2 (distance: 1, speed: 1, health: 0)
+Destroyed: paoletti0 (distance: 1, speed: 1, health: 0)
+Destroyed: SamWilson (distance: 57, speed: 57, health: 0)
+At the end of round 2, the median zombie lifetime is 1
+Round: 3
+Moved: TonyStark (distance: 0, speed: 68, health: 18)
+Moved: NatashaRomanoff (distance: 60, speed: 45, health: 30)
+DEFEAT IN ROUND 3! TonyStark ate your brains!
+Zombies still active: 2
+First zombies killed:
+bing4 1
+cris3 2
+darden1 3
+garcia2 4
+paoletti0 5
+SamWilson 6
+Last zombies killed:
+SamWilson 6
+paoletti0 5
+garcia2 4
+darden1 3
+cris3 2
+bing4 1
+Most active zombies:
+NatashaRomanoff 2
+TonyStark 2
+SamWilson 1
+bing4 1
+cris3 1
+darden1 1
+garcia2 1
+paoletti0 1
+Least active zombies:
+SamWilson 1
+bing4 1
+cris3 1
+darden1 1
+garcia2 1
+paoletti0 1
+NatashaRomanoff 2
+TonyStark 2

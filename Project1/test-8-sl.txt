@@ -1,0 +1,11 @@
+L
+1
+4
+
+//different routes stack and queue, list in map out
+//level 0
+(0,3,0,S)
+(0,0,3,H)
+(0,0,0,#)
+(0,1,2,.)
+(0,3,3,#)

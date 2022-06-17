@@ -1,0 +1,21 @@
+# test 2
+quiver: 47
+seed: 33333 rand-dist: 1 rand-s: 1 rand-h: 1
+---
+abcd 2
+random-zombies 5
+named 3
+TonyStark d 68 s 68 h 30
+SamWilson distance 57 speed 57 health 30
+NatashaRomanoff dist 105 spee 45 heal 30
+---
+round: 5
+random-zombies: 1
+named-zombies: 2
+SteveRodgers distance: 72 speed: 26 health: 30
+Thor distance: 21 speed: 26 health: 30
+---
+round: 8
+random-zombies: 10
+named-zombies: 0
+

@@ -1,0 +1,18 @@
+Round: 1
+Created: paoletti0 (distance: 56, speed: 2, health: 20)
+Destroyed: paoletti0 (distance: 56, speed: 2, health: 0)
+At the end of round 1, the median zombie lifetime is 1
+Round: 2
+At the end of round 2, the median zombie lifetime is 1
+Round: 3
+At the end of round 3, the median zombie lifetime is 1
+VICTORY IN ROUND 3! paoletti0 was the last zombie.
+Zombies still active: 0
+First zombies killed:
+paoletti0 1
+Last zombies killed:
+paoletti0 1
+Most active zombies:
+paoletti0 1
+Least active zombies:
+paoletti0 1

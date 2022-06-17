@@ -1,0 +1,11 @@
+k dog
+c conjugator
+s
+l
+a 1
+s
+l
+g
+# hello
+t 19:14:74:03:10
+q

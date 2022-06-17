@@ -1,0 +1,32 @@
+Round: 1
+Created: paoletti0 (distance: 115, speed: 175, health: 21)
+Created: darden1 (distance: 10, speed: 228, health: 135)
+Created: garcia2 (distance: 176, speed: 139, health: 134)
+Created: TonyStark (distance: 251, speed: 251, health: 251)
+Created: SamWilson (distance: 251, speed: 251, health: 251)
+Created: NatashaRomanoff (distance: 251, speed: 251, health: 251)
+Round: 2
+Moved: paoletti0 (distance: 0, speed: 175, health: 12)
+Moved: darden1 (distance: 0, speed: 228, health: 135)
+Moved: garcia2 (distance: 37, speed: 139, health: 134)
+Moved: TonyStark (distance: 0, speed: 251, health: 251)
+Moved: SamWilson (distance: 0, speed: 251, health: 251)
+Moved: NatashaRomanoff (distance: 0, speed: 251, health: 251)
+DEFEAT IN ROUND 2! paoletti0 ate your brains!
+Zombies still active: 6
+First zombies killed:
+Last zombies killed:
+Most active zombies:
+NatashaRomanoff 2
+SamWilson 2
+TonyStark 2
+darden1 2
+garcia2 2
+paoletti0 2
+Least active zombies:
+NatashaRomanoff 2
+SamWilson 2
+TonyStark 2
+darden1 2
+garcia2 2
+paoletti0 2

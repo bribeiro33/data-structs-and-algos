@@ -1,0 +1,22 @@
+M
+3
+3
+
+//lots of options map
+//elevator goes up
+//no path
+
+//level 0
+..E
+.S.
+...
+//level 1
+..E
+...
+..#
+//Level 2
+..#
+.H.
+...
+
+

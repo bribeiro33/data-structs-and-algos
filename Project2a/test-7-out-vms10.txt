@@ -1,0 +1,183 @@
+Round: 1
+Round: 2
+Round: 3
+Round: 4
+Round: 5
+Round: 6
+Round: 7
+Round: 8
+Round: 9
+Round: 10
+Round: 11
+Created: paoletti0 (distance: 9, speed: 2, health: 1)
+Created: darden1 (distance: 1, speed: 1, health: 1)
+Created: garcia2 (distance: 2, speed: 1, health: 1)
+Created: TonyStark (distance: 68, speed: 5, health: 30)
+Created: SamWilson (distance: 57, speed: 2, health: 30)
+Created: NatashaRomanoff (distance: 105, speed: 2, health: 30)
+Destroyed: darden1 (distance: 1, speed: 1, health: 0)
+Destroyed: garcia2 (distance: 2, speed: 1, health: 0)
+Destroyed: paoletti0 (distance: 9, speed: 2, health: 0)
+At the end of round 11, the median zombie lifetime is 1
+Round: 12
+Moved: TonyStark (distance: 63, speed: 5, health: 28)
+Moved: SamWilson (distance: 55, speed: 2, health: 30)
+Moved: NatashaRomanoff (distance: 103, speed: 2, health: 30)
+At the end of round 12, the median zombie lifetime is 1
+Round: 13
+Moved: TonyStark (distance: 58, speed: 5, health: 23)
+Moved: SamWilson (distance: 53, speed: 2, health: 30)
+Moved: NatashaRomanoff (distance: 101, speed: 2, health: 30)
+At the end of round 13, the median zombie lifetime is 1
+Round: 14
+Moved: TonyStark (distance: 53, speed: 5, health: 18)
+Moved: SamWilson (distance: 51, speed: 2, health: 30)
+Moved: NatashaRomanoff (distance: 99, speed: 2, health: 30)
+At the end of round 14, the median zombie lifetime is 1
+Round: 15
+Moved: TonyStark (distance: 48, speed: 5, health: 13)
+Moved: SamWilson (distance: 49, speed: 2, health: 30)
+Moved: NatashaRomanoff (distance: 97, speed: 2, health: 30)
+At the end of round 15, the median zombie lifetime is 1
+Round: 16
+Moved: TonyStark (distance: 43, speed: 5, health: 8)
+Moved: SamWilson (distance: 47, speed: 2, health: 30)
+Moved: NatashaRomanoff (distance: 95, speed: 2, health: 30)
+At the end of round 16, the median zombie lifetime is 1
+Round: 17
+Moved: TonyStark (distance: 38, speed: 5, health: 3)
+Moved: SamWilson (distance: 45, speed: 2, health: 30)
+Moved: NatashaRomanoff (distance: 93, speed: 2, health: 30)
+Destroyed: TonyStark (distance: 38, speed: 5, health: 0)
+At the end of round 17, the median zombie lifetime is 1
+Round: 18
+Moved: SamWilson (distance: 43, speed: 2, health: 28)
+Moved: NatashaRomanoff (distance: 91, speed: 2, health: 30)
+At the end of round 18, the median zombie lifetime is 1
+Round: 19
+Moved: SamWilson (distance: 41, speed: 2, health: 23)
+Moved: NatashaRomanoff (distance: 89, speed: 2, health: 30)
+At the end of round 19, the median zombie lifetime is 1
+Round: 20
+Moved: SamWilson (distance: 39, speed: 2, health: 18)
+Moved: NatashaRomanoff (distance: 87, speed: 2, health: 30)
+At the end of round 20, the median zombie lifetime is 1
+Round: 21
+Moved: SamWilson (distance: 37, speed: 2, health: 13)
+Moved: NatashaRomanoff (distance: 85, speed: 2, health: 30)
+At the end of round 21, the median zombie lifetime is 1
+Round: 22
+Moved: SamWilson (distance: 35, speed: 2, health: 8)
+Moved: NatashaRomanoff (distance: 83, speed: 2, health: 30)
+At the end of round 22, the median zombie lifetime is 1
+Round: 23
+Moved: SamWilson (distance: 33, speed: 2, health: 3)
+Moved: NatashaRomanoff (distance: 81, speed: 2, health: 30)
+Destroyed: SamWilson (distance: 33, speed: 2, health: 0)
+At the end of round 23, the median zombie lifetime is 1
+Round: 24
+Moved: NatashaRomanoff (distance: 79, speed: 2, health: 28)
+At the end of round 24, the median zombie lifetime is 1
+Round: 25
+Moved: NatashaRomanoff (distance: 77, speed: 2, health: 23)
+Created: cris3 (distance: 10, speed: 2, health: 1)
+Created: bing4 (distance: 1, speed: 2, health: 1)
+Created: will5 (distance: 8, speed: 3, health: 1)
+Created: fee6 (distance: 6, speed: 1, health: 1)
+Destroyed: bing4 (distance: 1, speed: 2, health: 0)
+Destroyed: will5 (distance: 8, speed: 3, health: 0)
+Destroyed: cris3 (distance: 10, speed: 2, health: 0)
+Destroyed: fee6 (distance: 6, speed: 1, health: 0)
+At the end of round 25, the median zombie lifetime is 1
+Round: 26
+Moved: NatashaRomanoff (distance: 75, speed: 2, health: 22)
+Created: noah7 (distance: 2, speed: 3, health: 1)
+Created: potatobot8 (distance: 5, speed: 3, health: 1)
+Created: steveRodgers (distance: 72, speed: 2, health: 30)
+Destroyed: noah7 (distance: 2, speed: 3, health: 0)
+Destroyed: potatobot8 (distance: 5, speed: 3, health: 0)
+At the end of round 26, the median zombie lifetime is 1
+Round: 27
+Moved: NatashaRomanoff (distance: 73, speed: 2, health: 22)
+Moved: steveRodgers (distance: 70, speed: 2, health: 27)
+At the end of round 27, the median zombie lifetime is 1
+Round: 28
+Moved: NatashaRomanoff (distance: 71, speed: 2, health: 22)
+Moved: steveRodgers (distance: 68, speed: 2, health: 22)
+At the end of round 28, the median zombie lifetime is 1
+Round: 29
+Moved: NatashaRomanoff (distance: 69, speed: 2, health: 22)
+Moved: steveRodgers (distance: 66, speed: 2, health: 17)
+At the end of round 29, the median zombie lifetime is 1
+Round: 30
+Moved: NatashaRomanoff (distance: 67, speed: 2, health: 22)
+Moved: steveRodgers (distance: 64, speed: 2, health: 12)
+At the end of round 30, the median zombie lifetime is 1
+Round: 31
+Moved: NatashaRomanoff (distance: 65, speed: 2, health: 22)
+Moved: steveRodgers (distance: 62, speed: 2, health: 7)
+At the end of round 31, the median zombie lifetime is 1
+Round: 32
+Moved: NatashaRomanoff (distance: 63, speed: 2, health: 22)
+Moved: steveRodgers (distance: 60, speed: 2, health: 2)
+Destroyed: steveRodgers (distance: 60, speed: 2, health: 0)
+At the end of round 32, the median zombie lifetime is 1
+Round: 33
+Moved: NatashaRomanoff (distance: 61, speed: 2, health: 19)
+At the end of round 33, the median zombie lifetime is 1
+Round: 34
+Moved: NatashaRomanoff (distance: 59, speed: 2, health: 14)
+At the end of round 34, the median zombie lifetime is 1
+Round: 35
+Moved: NatashaRomanoff (distance: 57, speed: 2, health: 9)
+At the end of round 35, the median zombie lifetime is 1
+Round: 36
+Moved: NatashaRomanoff (distance: 55, speed: 2, health: 4)
+Destroyed: NatashaRomanoff (distance: 55, speed: 2, health: 0)
+At the end of round 36, the median zombie lifetime is 1
+VICTORY IN ROUND 36! NatashaRomanoff was the last zombie.
+Zombies still active: 0
+First zombies killed:
+darden1 1
+garcia2 2
+paoletti0 3
+TonyStark 4
+SamWilson 5
+bing4 6
+will5 7
+cris3 8
+fee6 9
+noah7 10
+Last zombies killed:
+NatashaRomanoff 10
+steveRodgers 9
+potatobot8 8
+noah7 7
+fee6 6
+cris3 5
+will5 4
+bing4 3
+SamWilson 2
+TonyStark 1
+Most active zombies:
+NatashaRomanoff 26
+SamWilson 13
+TonyStark 7
+steveRodgers 7
+bing4 1
+cris3 1
+darden1 1
+fee6 1
+garcia2 1
+noah7 1
+Least active zombies:
+bing4 1
+cris3 1
+darden1 1
+fee6 1
+garcia2 1
+noah7 1
+paoletti0 1
+potatobot8 1
+will5 1
+TonyStark 7

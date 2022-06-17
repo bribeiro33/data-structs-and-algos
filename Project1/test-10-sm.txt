@@ -1,0 +1,24 @@
+M
+5
+2
+
+//Lots of elevators and floors
+//level 0
+EE
+E.
+
+//level 1
+E.
+.H
+
+//Level 2
+.E
+S.
+
+//Level 3
+.E
+E.
+
+// Level 4
+..
+E.
